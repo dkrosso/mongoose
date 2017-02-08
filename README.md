@@ -8,7 +8,7 @@ Mongoose is a [MongoDB](https://www.mongodb.org/) object modeling tool designed 
 [![Dependency Status](https://gemnasium.com/Automattic/mongoose.svg)](https://gemnasium.com/Automattic/mongoose)
 [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/vkarpov?utm_source=github&utm_medium=button&utm_term=vkarpov&utm_campaign=github)
 
-## Documentation
+## Documentation 
 
 [mongoosejs.com](http://mongoosejs.com/)
 
